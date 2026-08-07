@@ -1,42 +1,44 @@
 # Hi, I'm Yashraj Shitre
 
-### DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Jenkins
+### DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Jenkins | GitHub Actions
 
 ---
 
-##  About Me
+## 💼 About Me
 
-- 🌱 DevOps Engineer passionate about Cloud and Automation
-- ☁️ Working with AWS & Azure Cloud
+- ☁️ Working with AWS & Microsoft Azure
 - 🐳 Building containerized applications using Docker
 - ☸️ Learning Kubernetes production deployments
 - 🏗️ Infrastructure as Code using Terraform
-- ⚙️ CI/CD with Jenkins & GitHub Actions
+- ⚙️ CI/CD using Jenkins & GitHub Actions
 - 🐧 Linux Administration & Bash Scripting
 - 📍 Pune, Maharashtra, India
 
 ---
+
 ## 🛠️ Technical Skills
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+AWS • Azure
 
-### 🚀 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🐳 Containers
+Docker • Kubernetes
+
+### 🏗️ Infrastructure as Code
+Terraform
+
+### ⚙️ CI/CD
+Jenkins • GitHub Actions
 
 ### 💻 Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+Python • Bash
 
 ### 📊 Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-## 📚 Currently Learning
+Prometheus • Grafana
+
+---
+
+## 📖 Current Learning
 
 - Kubernetes Production Troubleshooting
 - Terraform Advanced Modules
@@ -44,38 +46,10 @@
 - Prometheus & Grafana
 - AWS Architecture
 - DevOps Interview Scenarios
----
-
-##  Featured Projects (Coming Soon)
-
-| Project | Status |
-|----------|--------|
-| Linux Essentials | 🔄 In Progress |
-| Git Workflow Scenarios | ⏳ Planned |
-| Docker Fundamentals | ⏳ Planned |
-| Jenkins CI/CD Pipeline | ⏳ Planned |
-| Terraform on AWS | ⏳ Planned |
-| Kubernetes Production Lab | ⏳ Planned |
-| AWS Monitoring (CloudWatch) | ⏳ Planned |
-| Prometheus + Grafana | ⏳ Planned |
-| Nginx Reverse Proxy | ⏳ Planned |
-| Blue-Green Deployment | ⏳ Planned |
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shitreyashraj&show_icons=true&theme=tokyonight)
+## 📬 Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shitreyashraj&layout=compact&theme=tokyonight)
 
----
-## 📫 Connect With Me
-
-- 📧 Email: shitreyashraj@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yashraj-shitre-3421612a3/
-- 📍 Pune, Maharashtra, India
-
----
- Thanks for visiting my GitHub profile!
-
-Building • Learning • Automating • Growing 
+Email: shitreyashraj@gmail.com
