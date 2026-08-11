@@ -34,7 +34,7 @@ Jenkins • GitHub Actions
 Python • Bash
 
 ### 📊 Monitoring
-Prometheus • Grafana
+Cloudwatch • Grafana
 
 ---
 
