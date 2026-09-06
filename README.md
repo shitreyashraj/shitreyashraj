@@ -52,5 +52,5 @@ Cloudwatch • Grafana
 ## 📬 Connect
 
 
-Email: shitreyashraj@gmail.com
+Email: yashrajshitre2002@gmail.com
 GitHub: https://github.com/shitreyashraj
