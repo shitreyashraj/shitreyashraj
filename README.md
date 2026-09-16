@@ -34,8 +34,8 @@ Jenkins • GitHub Actions
 Python • Bash
 
 ### 📊 Monitoring
-Cloudwatch • Grafana
-
+Cloudwatch • Grafana •
+Prometheus • Azure Monitor
 ---
 
 ## 📖 Current Learning
