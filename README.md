@@ -108,4 +108,62 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 
 - Prometheus and Grafana dashboards and alerting
 - Centralized logging using Loki and Promtail
-- Incident investigation, log analysis, and
+- Incident investigation, log analysis, and service reliability
+
+### 🔐 Security & Disaster Recovery
+
+- Docker image hardening and vulnerability scanning
+- Linux security, SSH configuration, and firewall rules
+- Automated backups, recovery procedures, and retention policies
+
+### 🐍 Scripting & Operational Automation
+
+- Python and Bash scripts for repetitive operational tasks
+- Git workflows and infrastructure version control
+- Troubleshooting automation and operational improvements
+
+### ☁️ Cloud-Native & Emerging Technologies
+
+- Cloud architecture and scalable deployment patterns
+- Foundational GCP concepts and services
+- AI/ML and MLOps fundamentals
+
+---
+
+## 📚 Hands-on DevOps Practice
+
+A collection of **12 hands-on DevOps mini projects** covering practical implementation of:
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Blue--Green-Deployment-0052CC?style=flat-square" alt="Blue-green deployment"/>
+  <img src="https://img.shields.io/badge/Canary-Release%20Strategy-7B42BC?style=flat-square" alt="Canary release strategy"/>
+  <img src="https://img.shields.io/badge/Monitoring-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Monitoring"/>
+  <img src="https://img.shields.io/badge/Security-Hardening-00A86B?style=flat-square" alt="Security hardening"/>
+  <img src="https://img.shields.io/badge/Backup-Disaster%20Recovery-64748B?style=flat-square" alt="Backup and disaster recovery"/>
+</p>
+
+Explore the complete collection in my [DevOps Engineering Lab repository](https://github.com/shitreyashraj/devops-engineering-lab).
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/shitreyashraj">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="mailto:yashrajshitre2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build • Automate • Deploy • Monitor • Scale</i>
+</p>
