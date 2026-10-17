@@ -164,6 +164,4 @@ Explore the complete collection in my [DevOps Engineering Lab repository](https:
 
 ---
 
-<p align="center">
-  Build • Automate • Deploy • Monitor • Scale
-</p>
+
