@@ -108,9 +108,4 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 
 - Prometheus and Grafana dashboards and alerting
 - Centralized logging using Loki and Promtail
-- Incident investigation, log analysis, and service reliability
-
-### 🔐 Security & Disaster Recovery
-
-- Docker image hardening and vulnerability scanning
-- Linux security,
+- Incident investigation, log analysis, and
