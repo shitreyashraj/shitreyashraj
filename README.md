@@ -165,5 +165,5 @@ Explore the complete collection in my [DevOps Engineering Lab repository](https:
 ---
 
 <p align="center">
-  <i>Build • Automate • Deploy • Monitor • Scale</i>
+  Build • Automate • Deploy • Monitor • Scale
 </p>
