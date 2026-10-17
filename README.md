@@ -1,7 +1,7 @@
- <!-- Futuristic DevOps Profile -->
+<!-- Yashraj Shitre | DevOps Engineer Profile -->
 
 <p align="center">
-  <img src="Yashraj%20Shitre%20DevOps%20Infinity%20Banner.png" alt="Yashraj Shitre | DevOps Engineer" width="100%"/>
+  <img src="Yashraj%20Shitre%20DevOps%20Infinity%20Banner.png" alt="Yashraj Shitre - DevOps CI/CD Engineer" width="100%"/>
 </p>
 
 <h2 align="center">DEVOPS ENGINEER | CLOUD | AUTOMATION</h2>
@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-Automation-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/DevOps-Automation-00C7B7?style=for-the-badge" alt="DevOps"/>
 </p>
 
 ---
@@ -37,29 +37,29 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <b>☁️ CLOUD PLATFORMS</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, and GCP"/>
 </p>
 
-<p align="center">
-  <b>🐳 CONTAINERS & ORCHESTRATION</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes"/>
 </p>
 
-<p align="center">
-  <b>⚙️ CI/CD & INFRASTRUCTURE AS CODE</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible"/>
+### ⚙️ CI/CD & Infrastructure as Code
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible" alt="Jenkins, GitHub Actions, Terraform, and Ansible"/>
 </p>
 
-<p align="center">
-  <b>💻 DEVELOPMENT & AUTOMATION</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github"/>
+### 💻 Development & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" alt="Linux, Bash, Python, Git, and GitHub"/>
 </p>
 
-<p align="center">
-  <b>📊 MONITORING, LOGGING & DATABASES</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,mysql"/>
+### 📊 Monitoring, Logging & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,mysql" alt="Prometheus, Grafana, Nginx, and MySQL"/>
 </p>
 
 ### Core Technologies
@@ -69,7 +69,7 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 | ☁️ Cloud | AWS, Microsoft Azure, GCP fundamentals |
 | 🐳 Containers | Docker, Docker Compose, Kubernetes |
 | 🔄 CI/CD | Jenkins, GitHub Actions, Azure DevOps |
-| 🏗️ IaC | Terraform, CloudFormation, ARM Templates |
+| 🏗️ Infrastructure as Code | Terraform, CloudFormation, ARM Templates |
 | 🐧 Scripting | Linux, Bash, Python |
 | 📈 Monitoring | Prometheus, Grafana, CloudWatch, Azure Monitor |
 | 📝 Logging | Loki, Promtail |
@@ -80,10 +80,10 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 
 ## ⚡ Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-Production%20Troubleshooting-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline%20Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-Production%20Troubleshooting-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline%20Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 </p>
 
 ### ☸️ Kubernetes & Container Orchestration
@@ -102,56 +102,4 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 - Blue-green and canary deployment strategies
 
 ### 📊 Monitoring, Logging & Reliability
-- Prometheus and Grafana dashboards and alerting
-- Centralized logging using Loki and Promtail
-- Incident investigation, log analysis, and service reliability
-
-### 🔐 Security & Disaster Recovery
-- Docker image hardening and vulnerability scanning
-- Linux security, SSH configuration, and firewall rules
-- Automated backups, recovery procedures, and retention policies
-
-### 🐍 Scripting & Operational Automation
-- Python and Bash scripts for repetitive operational tasks
-- Git workflows and infrastructure version control
-- Troubleshooting automation and operational improvements
-
-### ☁️ Cloud-Native & Emerging Technologies
-- Cloud architecture and scalable deployment patterns
-- Foundational GCP concepts and services
-- AI/ML and MLOps fundamentals
-
----
-
-## 📚 Hands-on DevOps Practice
-
-A collection of 12 hands-on DevOps mini projects covering practical implementation of:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blue--Green-Deployment-0052CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Canary-Release%20Strategy-7B42BC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Monitoring-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-Hardening-00A86B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backup-Disaster%20Recovery-64748B?style=flat-square"/>
-</p>
-
-Explore the complete collection in my [DevOps Engineering Lab repository](https://github.com/shitreyashraj/devops-engineering-lab).
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shitreyashraj">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:yashrajshitre2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Automate the repeatable. Monitor the critical. Improve continuously.</i>
-</p>
+- Prom
