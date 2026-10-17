@@ -37,35 +37,30 @@ I'm a DevOps Engineer with 3+ years of experience working with cloud infrastruct
 
 ## 🧰 Tech Stack & Tools
 
-### ☁️ Cloud Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, and GCP"/>
-</p>
-
-### 🐳 Containers & Orchestration
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes"/>
-</p>
-
-### ⚙️ CI/CD & Infrastructure as Code
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible" alt="Jenkins, GitHub Actions, Terraform, and Ansible"/>
-</p>
-
-### 💻 Development & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" alt="Linux, Bash, Python, Git, and GitHub"/>
-</p>
-
-### 📊 Monitoring, Logging & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,mysql" alt="Prometheus, Grafana, Nginx, and MySQL"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <b>☁️ Cloud Platforms</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, GCP"/>
+    </td>
+    <td align="center" width="20%">
+      <b>🐳 Containers</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker, Kubernetes"/>
+    </td>
+    <td align="center" width="20%">
+      <b>⚙️ CI/CD & IaC</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible" alt="Jenkins, GitHub Actions, Terraform, Ansible"/>
+    </td>
+    <td align="center" width="20%">
+      <b>💻 Development</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" alt="Linux, Bash, Python, Git, GitHub"/>
+    </td>
+    <td align="center" width="20%">
+      <b>📊 Monitoring & DB</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,mysql" alt="Prometheus, Grafana, Nginx, MySQL"/>
+    </td>
+  </tr>
+</table>
 
 ### Core Technologies
 
@@ -149,7 +144,7 @@ A collection of 12 hands-on DevOps mini projects covering practical implementati
   <img src="https://img.shields.io/badge/Backup-Disaster%20Recovery-64748B?style=flat-square" alt="Backup and disaster recovery"/>
 </p>
 
-Explore the full collection in my [DevOps Engineering Lab repository](https://github.com/shitreyashraj/devops-engineering-lab).
+Explore the complete collection in my [DevOps Engineering Lab repository](https://github.com/shitreyashraj/devops-engineering-lab).
 
 ---
 
