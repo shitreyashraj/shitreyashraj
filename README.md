@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./devops-cicd-banner.png" alt="Yashraj Shitre - DevOps CI/CD Engineer" width="100%"/>
+</p>
 <!-- Yashraj Shitre | DevOps Engineer Profile -->
 
 <p align="center">
